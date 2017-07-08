@@ -1,0 +1,19 @@
+#Fri Jul 07 20:07:06 GMT+08:00 2017
+renamed.5=classes3.dex
+renamed.4=classes.dex
+renamed.3=classes2.dex
+renamed.2=classes6.dex
+renamed.1=classes4.dex
+renamed.0=classes5.dex
+base.5=D\:\\AndroidStudioProjects\\BatchStepSensor\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e0646ecee1fa09e025aa067adcf5bc80c1c939d2
+base.4=D\:\\AndroidStudioProjects\\BatchStepSensor\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0a20290402438eca488c48fd3910d55ac317e80d
+base.3=D\:\\AndroidStudioProjects\\BatchStepSensor\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_995a4d2c86a6ea9d012bfe126fb82c589c27c50c
+base.2=D\:\\AndroidStudioProjects\\BatchStepSensor\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-21.0.2_9fc3c7de1400ed4e3c2ff4e230b8c3908f6474a5
+base.1=D\:\\AndroidStudioProjects\\BatchStepSensor\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.2_bd7dc16efc637d6e5bfbfb24dd91108e328d6be0
+base.0=D\:\\AndroidStudioProjects\\BatchStepSensor\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.2_efd06ce1bf3572dfa130d9d2e77253b57e08a155
+file.5=D\:\\AndroidStudioProjects\\BatchStepSensor\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_e0646ecee1fa09e025aa067adcf5bc80c1c939d2\\classes.dex
+file.4=D\:\\AndroidStudioProjects\\BatchStepSensor\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_0a20290402438eca488c48fd3910d55ac317e80d\\classes.dex
+file.3=D\:\\AndroidStudioProjects\\BatchStepSensor\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\classes_995a4d2c86a6ea9d012bfe126fb82c589c27c50c\\classes.dex
+file.2=D\:\\AndroidStudioProjects\\BatchStepSensor\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\support-annotations-21.0.2_9fc3c7de1400ed4e3c2ff4e230b8c3908f6474a5\\classes.dex
+file.1=D\:\\AndroidStudioProjects\\BatchStepSensor\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.2_bd7dc16efc637d6e5bfbfb24dd91108e328d6be0\\classes.dex
+file.0=D\:\\AndroidStudioProjects\\BatchStepSensor\\Application\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\internal_impl-21.0.2_efd06ce1bf3572dfa130d9d2e77253b57e08a155\\classes.dex
